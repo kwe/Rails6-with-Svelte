@@ -9,4 +9,4 @@
 </style>
 
 <h1>Hello {name}!</h1>
-<p>Welcome from Svelete</p>
+<p>Welcome from Svelete - is this thing on?</p>
