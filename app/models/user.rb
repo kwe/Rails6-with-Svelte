@@ -1,5 +1,5 @@
 class User < ApplicationRecord
     has_many :watches
-    has_many :auctions,  -> { uniq }, :through => :watches
+    has_many :auctions, :through => :watches
 
 end
