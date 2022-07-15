@@ -6,7 +6,7 @@
     "@rails/activestorage": "^6.0.2",
     "@rails/ujs": "^6.0.2",
     "@rails/webpacker": "5.1.1",
-    "svelte": "^3.24.0",
+    "svelte": "^3.49.0",
     "svelte-loader": "^2.13.6",
     "turbolinks": "^5.2.0"
   },
